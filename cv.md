@@ -12,7 +12,7 @@
 
 ## Code examples
 
-* ```javascript
+ ```javascript
 const hello = 'Hello world';
 
 Console.log(hello);
