@@ -13,7 +13,7 @@
 ## Code examples
 
  ```javascript
-const hello = 'Hello1';
+const hello = 'Hello12';
 let world = ' world';
 
 console.log(`${hello}${world}`);
